@@ -27,16 +27,17 @@ Durante este proyecto puse en práctica los conocimientos adquiridos en el curso
 
 ## 📂 Estructura del Proyecto
 
-- Portfolio_v1.0/
-- ├── index.html
-- ├── css/
-- │ └── style.css
-- ├── assets/
-- │ ├── img/
-- │ │ ├── figma.png
-- │ │ └── resultado.png
-- └── README.md
-
+```plaintext
+Portfolio_v1.0/
+├── index.html
+├── css/
+│ └── style.css
+├── assets/
+│ ├── img/
+│ │ ├── figma.png
+│ │ └── resultado.png
+└── README.md
+```
   
 ---
 
@@ -67,24 +68,24 @@ Gracias al equipo de **Oracle Next Education** y a **Alura Latam** por la formac
 ## 📸 Vista Previa
 
 **Diseño Original (Figma):**  
-![Vista previa del diseño en Figma](./proyecto_figma/figma.png)
+![Vista previa del diseño en Figma](./proyecto_figma/figma_original.png)
 
 **Resultado Final (HTML + CSS):**  
-![Versión desarrollada](./proyecto_figma/resultado.png)
+![Versión desarrollada](./proyecto_figma/version_web_v1.png)
 
 ---
 
 ## 🚀 Próximos pasos
 
-- Agregar interactividad con JavaScript
-- Optimizar para dispositivos móviles (responsive completo)
-- Mejorar accesibilidad (atributos ARIA, etiquetas adicionales)
+- Un **header** completamente funcional con **navegación** entre secciones.
+- Un **footer** informativo con enlaces relevantes y diseño responsive.
+- Ajustes en la estructura y estilización para mantener buenas prácticas de HTML y CSS.
 
 ---
 
 ## 📬 Contacto
 
 ¿Te interesa colaborar o tenés sugerencias?  
-Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/tuusuario) o dejar un issue en este repositorio.
+Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/hector-pablo-graff/) o dejar un issue en este repositorio.
 
 ---
