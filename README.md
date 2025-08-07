@@ -33,8 +33,8 @@ Durante este proyecto puse en práctica los conocimientos adquiridos en el curso
 - │ └── style.css
 - ├── assets/
 - │ ├── img/
-- │ │ ├── imagen1_figma.png
-- │ │ └── imagen2_resultado.png
+- │ │ ├── figma.png
+- │ │ └── resultado.png
 - └── README.md
 
   
@@ -70,7 +70,7 @@ Gracias al equipo de **Oracle Next Education** y a **Alura Latam** por la formac
 ![Vista previa del diseño en Figma](./proyecto_figma/figma.png)
 
 **Resultado Final (HTML + CSS):**  
-![Versión desarrollada](./proyecto_figma/code.png)
+![Versión desarrollada](./proyecto_figma/resultado.png)
 
 ---
 
